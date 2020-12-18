@@ -1,6 +1,6 @@
-<h1 align="center">mg WhatsApp-BOT</h1>
-<p align="center">Just Simple WhatsApp BOT</p>
-<h3 align="center">SCRIPT TIDAK DIJUAL. DAN REPO INI TIDAK DILANJUTKAN! SAYA SUDAH PENSIUN NGEBOT!!! MAKASIH SEMUA :)</h3>
+<h1 align="center"BOT</h1>
+<p align="center">.</p>
+<h3 align="center">SCRIPT</h3>
 
 ### Install
 Clone this project
@@ -72,6 +72,9 @@ Usage
 | sand |✅|
 | nulis |✅|
 | TextPro |✅|
+| spamcall |✅|
+| spamsms |✅|
+| spamvoid |✅|
 #### Sticker
 | Feature |Yes|
 | ------------- | ------------- |
