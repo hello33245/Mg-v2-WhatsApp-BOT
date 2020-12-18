@@ -5,8 +5,8 @@
 ### Install
 Clone this project
 ```bash
-> git clone https://github.com/Gimenz/Mg-v2-WhatsApp-BOT.git
-> cd Mg-v2-WhatsApp-BOT
+> git clone https://github.com/hello33245/
+
 ```
 
 Install the dependencies:
@@ -66,6 +66,12 @@ Usage
 | Facebook Videos |✅|
 | SoundCloud Music |✅|
 | Google Image |✅|
+| xvideos |✅|
+| brazzers |✅|
+| pornhub |✅|
+| sand |✅|
+| nulis |✅|
+| TextPro |✅|
 #### Sticker
 | Feature |Yes|
 | ------------- | ------------- |
