@@ -53,7 +53,7 @@ Usage
 | Command Limit |✅|
 | Ban User |✅|
 
-#### Downloader
+#### FREE
 | Feature |Yes|
 | ------------- | ------------- |
 | Instagram (Multiple Post) |✅|
@@ -75,6 +75,12 @@ Usage
 | spamcall |✅|
 | spamsms |✅|
 | spamvoid |✅|
+| BASS |✅|
+| DISTORD |✅|
+| ToMP3 |✅|
+| GETVIDEO |✅|
+| GETAUDIO |✅|
+
 #### Sticker
 | Feature |Yes|
 | ------------- | ------------- |
