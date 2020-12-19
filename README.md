@@ -5,8 +5,8 @@
 ### Install
 Clone this project
 ```bash
-> git clone https://github.com/hello33245/
-
+> git clone https://github.com/hello33245/Mg-v2-WhatsApp-BOT
+> npm install
 ```
 
 Install the dependencies:
